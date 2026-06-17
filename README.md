@@ -49,8 +49,4 @@ Planify/
 
 ## Author
 
-**Denis Pudlo** — Junior Frontend Developer
-
----
-
-Made with ❤️ as a pet project to practice DOM manipulation, state management, and modern CSS.
+**Denis Pudlo** — @denisPudlo
